@@ -1,0 +1,6 @@
+passfile
+/insecure/*.sql
+/secure/*.enc
+*.sql
+database-setting.sh
+file-setting.sh
